@@ -4,7 +4,7 @@
     text-align: center;
     padding: 2.5em 2em;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .banner__titulo {
     font-size: 18px;
     font-weight: 700;
@@ -33,7 +33,7 @@
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 0.5em;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 @media screen and (min-width: 1024px) {
     .banner__titulo {
         font-size: 36px;
@@ -53,7 +53,7 @@
     .banner__pesquisa {
         width: 35%
     }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
     .banner__pesquisa::placeholder {
         background-position: 12em;
     }
