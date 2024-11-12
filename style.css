@@ -4,7 +4,7 @@
 @import url("Styles/topicos.css");
 @import url("Styles/contato.css");
 @import url("Styles/rodape.css");
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 :root {
     --fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -18,7 +18,7 @@
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 body {
     background-color: var(--fundo);
     font-family: var(--fonte-principal);
