@@ -3,7 +3,7 @@
     text-align: center;
     padding: 1em 0;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .topicos__titulo {
     color: var(--branco);
     font-weight: 300;
@@ -24,7 +24,7 @@
     font-weight: 700;
     background-color: var(--laranja);
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .topicos__link:hover {
     background-color: var(--laranja-claro);
 }
@@ -32,7 +32,7 @@
 .topicos__item {
     margin: 2em .5em;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 @media screen and (min-width: 1024px) {
 
     .topicos__titulo,
@@ -40,7 +40,7 @@
         font-size: 24px;
     }
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 @media screen and (min-width: 1728px) {
 
     .topicos {
