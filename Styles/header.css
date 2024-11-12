@@ -7,7 +7,7 @@
     background-position: center;
     padding-left: 2em;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
     background-image: url(../img//MenuAberto.png);
 }
@@ -29,7 +29,7 @@
     display: flex;
     align-items: center;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .pt1 {
     gap: 1em;
 }
@@ -49,7 +49,7 @@
 .container__botao:checked~.lista-menu {
     display: block;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .container__botao {
     display: none;
 }
@@ -78,7 +78,7 @@
 .opções {
     display: none;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .container__texto {
     display: none
 }
@@ -114,7 +114,7 @@
         text-decoration: none;
         color: var(--preto);
     }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
     .opções__link:hover {
         background: var(--azul-degrade);
         color: var(--branco);
@@ -144,7 +144,7 @@
     .lista-menu__item:hover {
         background: var(--azul-degrade);
     }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
     .lista-menu__item:hover>.lista-menu__link {
         -webkit-text-fill-color: var(--branco);
         text-decoration: none;
@@ -167,7 +167,7 @@
     .cabecalho {
         padding: 0 2em;
     }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
     .opções {
         margin-right: auto;
     }
