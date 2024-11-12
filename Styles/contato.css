@@ -2,7 +2,7 @@
     background: var(--branco);
     padding: 1em;
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .contato__titulo,
 .contato__texto {
     background: var(--azul-degrade);
@@ -28,7 +28,7 @@
     width: 90%;
     color: var(--azul);
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 .contato__email::placeholder {
     font-family: var(--fonte-principal);
     color: var(--azul);
@@ -59,7 +59,7 @@
         width: 30%;
     }
 }
-
+/*FELIPE DA SILVA SANTOS 3D 12/11/2006*/
 @media screen and (min-width: 1728px) {
 
     .contato {
